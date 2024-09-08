@@ -3,7 +3,7 @@ This repository contains all the code from a notebook in which I built a machine
 
 ![alt text](https://nci-media.cancer.gov/pdq/media/images/765001-750.jpg)
 
-# Skin Cancer
+# Skin Cancer
 Skin cancer, which forms on or within the skin, is the most common type of cancer in the United States. Basal cell carcinoma, squamous cell carcinoma and melanoma are the most common kinds of skin cancer.
 
 # Early Detection of Skin Cancer
